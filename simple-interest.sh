@@ -15,6 +15,7 @@
 
    # Output:
    # simple interest = p*t*r
+   #RepoTEST
 
    echo "Enter the principal:"
    read p
